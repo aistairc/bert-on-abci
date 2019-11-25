@@ -7,8 +7,8 @@
 
 ## Scripts
 
-- training BERT from scratch: https://github.com/aistairc/kirt_bert_on_abci
-- fine-tuning BERT / evaluating BERT-based models: https://github.com/aistairc/kirt_bert_finetuning
+- [training BERT from scratch](https://github.com/aistairc/kirt_bert_on_abci)
+- [fine-tuning BERT / evaluating BERT-based models](https://github.com/aistairc/kirt_bert_finetuning)
 
 ## Results/Models
 
