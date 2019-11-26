@@ -2,8 +2,9 @@
 
 ## Overview
 
-- We have developed scripts of training/fine-tuning BERT on ABCI
+- We have prepared scripts of training/fine-tuning BERT on ABCI
 - It took *** hours to train a BERT model on *** GB texts in an epoch using *** GPUs. 
+- The performance is ***.
 
 ## Scripts
 
