@@ -3,8 +3,8 @@
 ## Overview
 
 - We have prepared scripts of training/fine-tuning BERT on ABCI
-- It took *** hours to train a BERT model on *** GB texts in an epoch using *** GPUs. 
-- The performance is ***.
+- It took 3 days to train a BERT base model on 83.5 GB texts in an epoch using 16 GPUs. 
+- The performance is 83.04% (compared to 82.60% with SciBERT) in the nested named entity recognition on the BioNLP 2013 CG corpus.
 
 ## Scripts
 
