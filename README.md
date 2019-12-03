@@ -13,5 +13,6 @@
 
 ## Models
 
-- [Biomedical BERT base model](http://...)
+- Biomedical BERT base model (TBA)
 
+## Acknowledgement
