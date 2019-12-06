@@ -9,7 +9,7 @@
 ## Scripts
 
 - [training BERT from scratch](https://github.com/aistairc/kirt_bert_on_abci)
-- [fine-tuning BERT / evaluating BERT-based models](TBA)
+- fine-tuning BERT / evaluating BERT-based models (TBA)
 
 ## Models
 
