@@ -13,6 +13,7 @@
 
 ## Models
 
-- Biomedical BERT base model (TBA)
+- [Biomedical BERT base model (alpha)] (https://data.airc.aist.go.jp/abci_bert/abci_bio_bert_base_alpha.zip)
+- [Biomedical BERT base model (alpha, with sentence-based separator [SEP] token)] (https://data.airc.aist.go.jp/abci_bert/abci_bio_bert_base_sep_alpha.zip)
 
 ## Acknowledgement
