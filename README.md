@@ -1,4 +1,4 @@
-# BERT-on-ABCI
+# ABCI BERT
 
 ## Overview
 
