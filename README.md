@@ -4,7 +4,7 @@
   - The performance of BERT on the end tasks depends on the text collection for the pre-training. 
   - This script allows the training of BERT on ABCI on your large-scale domain text collection, which can be used to evaluate your domain-specific models. 
 - In our evaluation, it took 15 hours to train a BERT base model (about 1/3 of the computational cost in the BERT large model) on 83.5 GB texts in an epoch using 16 GPUs.
-  - With the whole 4,356 GPUs in ABCI, the training time can be reduced to about 3.3 mins (~10 mins for a BERT large model). 
+  - With the whole 4,356 GPUs in ABCI, the training time is estimated to be reduced to about 3.3 mins (~10 mins for a BERT large model). 
 - The performance is 83.50% in the nested named entity recognition on the BioNLP 2013 CG corpus.
   - The performance is comparable to or slightly better than the scores by the BioBERT model (83.19%), which is fine-tuned from the original BERT, and the SciBERT model (82.60%), which is pre-trained on a smaller corpus.
 
