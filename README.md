@@ -10,7 +10,7 @@ We have prepared scripts for pre-training BERT on ABCI. The performance at the e
 
 In our evaluation, it took 15 hours to train a BERT base model (about 1/3 of the computational cost in the BERT large model) on 83.5 GB texts in an epoch using 16 GPUs. With the whole 4,356 GPUs in ABCI, the training time is estimated to be reduced to about 3.3 mins/epoch (~10 mins/epoch for a BERT large model). 
 
-The performance is 83.50% in the nested named entity recognition on the BioNLP 2013 CG corpus. This performance is comparable to or slightly better than the scores by the BioBERT model (83.19%), which is fine-tuned from the original BERT, and the SciBERT model (82.60%), which is pre-trained on a smaller corpus.
+The performance is 83.50% in the nested named entity recognition on the BioNLP 2013 CG corpus. This performance is better than the original BERT (79.33%). This performance is also comparable to or slightly better than the scores by the BioBERT model (83.19%), which is fine-tuned from the original BERT, and the SciBERT model (82.60%), which is pre-trained on a smaller corpus.
 
 ## Fine-tuning BERT / evaluating BERT-based models (TBA)
 
