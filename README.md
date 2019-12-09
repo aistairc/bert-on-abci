@@ -15,3 +15,5 @@
 - [Biomedical BERT base model (alpha, with sentence-based separator [SEP] token)](https://data.airc.aist.go.jp/abci_bert/abci_bio_bert_base_sep_alpha.zip)
 
 # Acknowledgement
+
+The results are obtained from projects commissioned by NEDO (New Energy and Industrial Technology Development Organization) and PRISM (Public/Private R&D Investment Strategic Expansion PrograM).
