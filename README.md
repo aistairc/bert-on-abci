@@ -4,7 +4,7 @@
 
 # Scripts
 
-- [training BERT from scratch](https://github.com/aistairc/kirt_bert_on_abci)
+## [Training BERT from scratch](https://github.com/aistairc/kirt_bert_on_abci)
 
 We have prepared scripts for pre-training BERT on ABCI. The performance at the end tasks depends on the text collection for the pre-training. The scripts allow the training of BERT on ABCI on your large-scale domain text collection, which can be used to evaluate your domain-specific models. 
 
@@ -12,12 +12,13 @@ In our evaluation, it took 15 hours to train a BERT base model (about 1/3 of the
 
 The performance is 83.50% in the nested named entity recognition on the BioNLP 2013 CG corpus. This performance is comparable to or slightly better than the scores by the BioBERT model (83.19%), which is fine-tuned from the original BERT, and the SciBERT model (82.60%), which is pre-trained on a smaller corpus.
 
-- fine-tuning BERT / evaluating BERT-based models (TBA)
+## Fine-tuning BERT / evaluating BERT-based models (TBA)
 
 # Models
 
-- [Biomedical BERT base model (alpha)](https://data.airc.aist.go.jp/abci_bert/abci_bio_bert_base_alpha.zip)
-- [Biomedical BERT base model (alpha, with sentence-based separator [SEP] token)](https://data.airc.aist.go.jp/abci_bert/abci_bio_bert_base_sep_alpha.zip)
+## Biomedical BERT
+- [base model (alpha)](https://data.airc.aist.go.jp/abci_bert/abci_bio_bert_base_alpha.zip)
+- [base model (alpha, with sentence-based separator [SEP] token)](https://data.airc.aist.go.jp/abci_bert/abci_bio_bert_base_sep_alpha.zip)
 
 # Acknowledgement
 
