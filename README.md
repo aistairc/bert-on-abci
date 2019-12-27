@@ -22,4 +22,4 @@ The performance is 83.50% in the nested named entity recognition on the BioNLP 2
 
 # Acknowledgement
 
-The results are obtained from projects commissioned by NEDO (New Energy and Industrial Technology Development Organization) and PRISM (Public/Private R&D Investment Strategic Expansion PrograM).
+The results are obtained from "Strategic Advancement of Multi-Purpose Ultra-Human Robot and Artificial Intelligence Technologies（SamuRAI） Project" and "Ultra High-Throughput Design and Prototyping Technology for Ultra Advanced Materials Development Project" commissioned by the New Energy and Industrial Technology Development Organization (NEDO) and a project commissioned by Public/Private R&D Investment Strategic Expansion PrograM (PRISM).
