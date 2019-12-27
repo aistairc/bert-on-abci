@@ -6,7 +6,7 @@
 
 ## [Training BERT from scratch](https://github.com/aistairc/kirt_bert_on_abci)
 
-We have prepared scripts for pre-training BERT on ABCI. The performance at the end tasks depends on the text collection for the pre-training. The scripts allow the training of BERT on ABCI on your large-scale domain text collection, which can be used to evaluate your domain-specific models. 
+We have prepared scripts for pre-training BERT [1] on ABCI. The performance at the end tasks depends on the text collection for the pre-training. The scripts allow the training of BERT on ABCI on your large-scale domain text collection, which can be used to evaluate your domain-specific models. 
 
 In our evaluation, it took 15 hours to train a BERT base model (about 1/3 of the computational cost in the BERT large model) on 83.5 GB texts in an epoch using 16 GPUs. With the whole 4,356 GPUs in ABCI, the training time is estimated to be reduced to about 3.3 mins/epoch (~10 mins/epoch for a BERT large model). 
 
@@ -19,6 +19,10 @@ The performance is 83.50% in the nested named entity recognition on the BioNLP 2
 ## Biomedical BERT
 - [base model (alpha)](https://data.airc.aist.go.jp/abci_bert/abci_bio_bert_base_alpha.zip)
 - [base model (alpha, with sentence-based separator [SEP] token)](https://data.airc.aist.go.jp/abci_bert/abci_bio_bert_base_sep_alpha.zip)
+
+# References
+
+[1] Jacob Devlin, Ming-Wei Chang, Kenton Lee and Kristina Toutanova, "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding." In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), pp. 4171-4186. 2019.
 
 # Acknowledgement
 
